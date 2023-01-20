@@ -1,0 +1,62 @@
+h1 {
+    background-color: lightgreen;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    font-family: "Courier New", Courier, monospace;
+  }
+  h2{
+    color: aliceblue;
+    font-family:'Times New Roman', Times, serif;
+  }
+  li{
+    color:blue;
+    font-size: large;
+  }
+  p {
+    background-color: lightgreywhite;
+    color: whitesmoke;
+    
+    
+  }
+  li{
+    color:beige;
+    padding: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  
+  a:link { 
+    color: beige;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+ 
+ a{
+    color: orange;
+
+ }
+
+  
+  body{
+    color: black;
+    background-color: blanchedalmond;
+    margin left: 20px;
+    margin right: 20px;
+    padding: 50px;
+  font-family: "Courier New", Courier, monospace;
+  }
+   body {
+    background-image: url("https://food-images.files.bbci.co.uk/food/recipes/dalonga_coffee_20606_16x9.jpg");
+  }
+  
+  footer {
+    text-align: center;
+    background-color: purple;
+    color: #fff;
+    padding: 50px;
+    font-family: fantasy;
+  }
+
+  
